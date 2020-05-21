@@ -1,0 +1,28 @@
+{
+  "map": {
+    "code": "200",
+    "message": "success",
+    "data": [
+      {
+        "name": "浙江",
+        "value": "900"
+      },
+      {
+        "name": "上海",
+        "value": "600"
+      },
+      {
+        "name": "江苏",
+        "value": "100"
+      },
+      {
+        "name": "河北",
+        "value": "800"
+      },
+      {
+        "name": "湖南",
+        "value": "100"
+      }
+    ]
+  }
+}
